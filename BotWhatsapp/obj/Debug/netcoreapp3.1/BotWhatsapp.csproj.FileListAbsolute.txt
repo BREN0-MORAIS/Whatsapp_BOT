@@ -1,0 +1,17 @@
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\BotWhatsapp.exe
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.AssemblyInfoInputs.cache
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.AssemblyInfo.cs
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.csproj.CopyComplete
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\BotWhatsapp.deps.json
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\BotWhatsapp.runtimeconfig.json
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\BotWhatsapp.runtimeconfig.dev.json
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\BotWhatsapp.dll
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\bin\Debug\netcoreapp3.1\BotWhatsapp.pdb
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.dll
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.pdb
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.genruntimeconfig.cache
+C:\Users\wcogeo\source\repos\BotWhatsapp\BotWhatsapp\obj\Debug\netcoreapp3.1\BotWhatsapp.csprojAssemblyReference.cache
